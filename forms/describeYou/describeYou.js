@@ -1,4 +1,4 @@
-/*
+
 rdoPersonality.onchange = function() {
     let userChoice = 
         $("input[name = rdoPersonality]:checked").prop("value")
@@ -15,7 +15,6 @@ rdoPersonality.onchange = function() {
   }
     
     btnExcerciseForm.onclick = function() {
-        ChangeForm(favExercise)
+        ChangeForm(favExercises)
         }
 
-*/

@@ -7,7 +7,7 @@ favExercises.onshow=function(){
     for (i = 0; i < exercises.length; i++)
         selExercises.addItem(exercises[i])
 }
-selExercises.onchange = function() {
+btnSubmit.onclick = function() {
     exerciseOne = chosen[0]
     exerciseTwo = chosen[1]
     if ((exerciseOne == 'situps' && exerciseTwo == 'plank') || (exerciseOne == 'plank' && exerciseTwo == 'situps'))

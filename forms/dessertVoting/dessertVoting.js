@@ -1,11 +1,11 @@
-/*
+
 var dessertList = ['Chocolate Cake','Cream Brulee','Cheesecake',
                   'Keyline Pie','Cherry Cobbler','Chocolate Chip Cookies']
 
 dessertVoting.onshow=function(){
     drpDesserts.clear()   
 
-  for (i=0; i<= dessert.length - 1; i++)
+  for (i=0; i<= dessertList.length - 1; i++)
       drpDesserts.addItem(dessertList[i])
 }
 
@@ -20,4 +20,3 @@ drpDesserts.onclick=function(s){
 btnDescribeYou.onclick=function() {
     ChangeForm(describeYou)
     }
-*/
