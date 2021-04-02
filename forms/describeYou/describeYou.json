@@ -18,6 +18,33 @@
         "Elements",
         "lblPrompt2.json"
       ]
+    },
+    {
+      "!type": "External",
+      "file": [
+        "forms",
+        "describeYou",
+        "Elements",
+        "lblMessage.json"
+      ]
+    },
+    {
+      "!type": "External",
+      "file": [
+        "forms",
+        "describeYou",
+        "Elements",
+        "btnExcerciseForm.json"
+      ]
+    },
+    {
+      "!type": "External",
+      "file": [
+        "forms",
+        "describeYou",
+        "Elements",
+        "rdoPersonality.json"
+      ]
     }
   ],
   "class": "",
